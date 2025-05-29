@@ -3,7 +3,7 @@
 Here I am.
 
 
-![My picture](https://leap.2i2c.cloud/user/30815kelvin/files/test/IMG_6388.png?_xsrf=MnwxOjB8MTA6MTc0ODUzMTU0N3w1Ol94c3JmfDEzMjpObVJoWVRNeE1UZzJObUZtTkdKaVlqZ3hOVFZoT1RWbU5qVXdNalE0WVRNNk9HWTFNVE5pT0RVd04yWXdNRFZrWVRJNU9HWXdNamxtTTJVNFpUSTFNbU0wWkRRMk16TXdZalUzT1RVeU1UVTNOekpsTnpJNU5qSXlNak0wTUdGbVlRPT18NDE5NDFkYjUzYjE3NDYzZjIwZGQwY2JkODYxYmYxMzA3N2U4YTIzMjhkNzUxMzQxZjRlNjY5MGI4MGE0MjQwMg)
+![My picture](https://github.com/30815Kelvin/resume/blob/main/81A3515B5652AB41A0052E96B95CA4D2.png)
 
 ## Education
 - Columbia University
