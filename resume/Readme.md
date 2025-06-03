@@ -7,9 +7,8 @@ Here I am.
 
 ## Education
 - [Columbia University](https://www.columbia.edu/).
-- [Washington University](https://www.washington.edu/).
 - [McGill University](https://www.mcgill.ca/).
-- [Duke University](https://duke.edu/).
+- [Fuzhou No.3 High School](https://www.isacteach.com/high-school/fuzhou-no-3-high-school/).
 
 
 ## Research Interests
